@@ -1,5 +1,5 @@
 # Christopher Beaver
-*Resume, Work History, Publication Links, and App Example Links*
+*Resume, Work History, Publication Links, and App Example Links*<>
 Cell: (509) 619-4783  
 Email: christopher.beaver@gmail.com 
 
