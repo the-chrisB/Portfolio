@@ -1,12 +1,12 @@
 # Portfolio
 Christopher Beaver 
-Cell: (509) 619-4783 
-Email (work): cwb13@wsu.edu 
-Email (personal): christopher.beaver@gmail.com 
+Cell: (509) 619-4783  
+Email: christopher.beaver@gmail.com 
 
 
 
 Summary
+
 General Skills
 
 I am  an innovative research scientist with more than a decade of experience in data collection, processing, analysis, and modeling within academia and for-profit companies.  I also have experience presenting complex statistical models in easily understood ways regardless of the experience of the audience.  Additionally, I have experience with purchasing, procurement, and budget monitoring while balancing administrative work with research.   Lastly, I routinely self-educate as needed to stay on track with the ever changing world of data science.
@@ -19,12 +19,8 @@ Purchasing and purchase procurement in Workday
 Grant writing
 Able to think critically and communicate with co-workers and collaborators to achieve goals in a timely manner
 
-
-
-
-
-
 Specific Skills
+
 Online Data Manipulation and Visualization:
 Shiny app development from start to finish either on local desktop computers (Windows, Mac, or Linux) or over Linux cloud servers
 Visualization from public databases - Tableau
@@ -47,10 +43,6 @@ Database querying
 BigQuery in Google cloud
 PostgreSQL in PgAdmin and DBeaver
 
-
-
-
-
 Accomplishments
 
 Wrote and published manuscripts (Click here to view publications on Google Scholar)
@@ -58,11 +50,8 @@ Was awarded a one month collaboration (August 2022) with the Environmental Molec
 Currently in collaboration with  commercial wineries in California and Washington State who use one of my Shiny apps that is deployed over a cloud server for quantitative prediction and monitoring of phenolic compounds in red wine
 Awarded paper of the year (2013) by the American Society of Enology and Viticulture 
 
-
-
-
-
 Work History
+
 Associate in research at Washington State University Wine Science Center in Richland, WA (05/2016 – present)
 Write R shiny apps for students and participating wineries in California and Washington state
  Involved in project design, grant writing, equipment/chemical purchasing, data collection, data processing, manuscript writing, and publication
@@ -79,6 +68,7 @@ Wrote and published manuscripts of my work
 
 
 Education
+
 Certified Advanced Data Analyst, Coursera Plus Data Analyst Certificate Program by Google - 2024
 Certified Data Analyst, Coursera Plus Data Analyst Certificate Program by Google - 2023
 Machine Learning A-Z Certificate of Completion, Udemy - 2023
