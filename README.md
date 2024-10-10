@@ -22,7 +22,7 @@ I am  an innovative research scientist with more than a decade of experience in 
 
 - *Upwork*, Remote — Freelance Data Scientist
   - August 2024 - Present
-   - Boost client success with data cleaning, transformation, analysis, and visualization in both R and Python.  
+    - Boost client success with data cleaning, transformation, analysis, and visualization in both R and Python.  
      With clear communication, insightful guidance, thorough analysis, and comprehensive reporting, I am able to provide clients with the data-driven insights regardless of 
      their area of expertise.
 - *Energy Northwest*, Richland, WA — Grant Management, Data Analysis, and Visualization Specialist (temporary/contract position)
