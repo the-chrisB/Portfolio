@@ -1,5 +1,5 @@
-# Portfolio
-*Christopher Beaver* 
+# Christopher Beaver
+*Resume, Work History, Publication Links, and App Example Links* 
 Cell: (509) 619-4783  
 Email: christopher.beaver@gmail.com 
 
@@ -74,7 +74,7 @@ I am  an innovative research scientist with more than a decade of experience in 
 
 **Accomplishments**
 
-- [Wrote and published manuscripts](https://scholar.google.com/citations?user=dXEaLE4AAAAJ&hl=en&oi=ao)
+- Wrote and published [manuscripts](https://scholar.google.com/citations?user=dXEaLE4AAAAJ&hl=en&oi=ao)
 - Was awarded a one month collaboration (August 2022) with the Environmental Molecular Sciences Laboratory at [Pacific Northwest National Laboratory](https://doi.org/10.46936/ltds.proj.2022.60408/60008497) 
 - Currently in collaboration with  commercial wineries in California and Washington State who use one of my Shiny apps that 
   is deployed over a cloud server for quantitative prediction and monitoring of phenolic compounds in red wine
