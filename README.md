@@ -1,80 +1,80 @@
 # Portfolio
-Christopher Beaver 
+*Christopher Beaver* 
 Cell: (509) 619-4783  
 Email: christopher.beaver@gmail.com 
 
 
 
-Summary
-
-General Skills
+**Summary**
 
 I am  an innovative research scientist with more than a decade of experience in data collection, processing, analysis, and modeling within academia and for-profit companies.  I also have experience presenting complex statistical models in easily understood ways regardless of the experience of the audience.  Additionally, I have experience with purchasing, procurement, and budget monitoring while balancing administrative work with research.   Lastly, I routinely self-educate as needed to stay on track with the ever changing world of data science.
 
+**Skills**
 
-Data gathering, cleaning, formatting, and filtering in with spreadsheets and Databases
-Execution of machine learning algorithms in R and Python
-Building and deploying reactive apps in  Posit Shiny                                                                                              
-Purchasing and purchase procurement in Workday
-Grant writing
-Able to think critically and communicate with co-workers and collaborators to achieve goals in a timely manner
+- Data gathering, cleaning, formatting, and filtering in with spreadsheets and Databases
+- Data manipulation and filtering with PostgreSQL and Bigquery
+- Execution of machine learning algorithms in R and Python
+- Building and deploying reactive apps in  R Shiny                                                                                              
+- Fund aquisition through federal and state grant writing and submission 
+- Able to think critically and communicate with co-workers and collaborators to achieve goals in a timely manner
 
-Specific Skills
+**Experience**
 
-Online Data Manipulation and Visualization:
-Shiny app development from start to finish either on local desktop computers (Windows, Mac, or Linux) or over Linux cloud servers
-Visualization from public databases - Tableau
-Data processing, analysis, and visualization
-Using the following R language packages:
-Data importing, pipelining, and visualization (tidyverse) - dplyr, ggplot2, readr, tidyr
-Database/table filtering and formatting  - DBI, DT, data.table
-Chromatogram visualization - OrgMassSpecR
-Univariate and multivariate classification - FactoMineR, factoextra, SensoMineR, stats, MASS
-Hierarchical clustering and heatmaps - mixOmics, gplots
-Univariate and multivariate regression - stats, e1071, pls, chemometrics
-Experience modifying published R packages/functions to optimize results
-Code reporting - Rmarkdown 
-Using the following Python modules:
-Data importing and filtering - os, pandas
-Machine learning for regression and classification - scikit-learn
-Matrix manipulation - numpy
-Tensor operations (neural networks) - tensorflow, keras
-Database querying 
-BigQuery in Google cloud
-PostgreSQL in PgAdmin and DBeaver
+*Upwork*, Remote — Freelance Data Scientist
+ August 2024 - Present
+ - Boost client success with data cleaning, transformation, analysis, and visualization in both R and Python.  
+   With clear communication, insightful guidance, thorough analysis, and comprehensive reporting, I am able to provide clients with the data-driven insights regardless of 
+   their area of expertise. 
+*Energy Northwest*, Richland, WA — Grant Management, Data Analysis, and Visualization Specialist (temporary/contract position)
+ April 2024 - August 2024
+ - Facilitated grant proposal awarding by editing and critiquing a  proposal to construct several EV fast charging stations east of the Cascade Mountains in Washington  
+   State.  This project will greatly assist in achieving the state mandate that all vehicles purchased  or registered in the state must be EV by 2030.   
+ - Forecasted project cost of the EV charging station grant in an easily communicable and understandable  way regardless of the professional focus of the audience through 
+   visualizations using the matplotlib and seaborn Python modules. 
+ - Investigated Funding Opportunity Announcements (FOAs) through federal (Office of Energy Efficiency and Renewable Energy) and state (Washington State Department of 
+   Commerce) entities and summarized technical aspects of the grants in easily communicable terms .
+*Washington State University*, Richland, WA — Research Associate in Applied Machine Learning
+ May 2016 - April 2024
+ - Successfully designed and executed a project that utilized unsupervised machine learning to identify the Raman spectra of certain phenolic compounds using  Surface 
+   Enhanced Raman Spectroscopy (SERS) and supervised machine learning to quantify those compounds once identified.  This  pioneering work clearly demonstrates that SERS 
+   combined with machine learning can be used to model  small organic molecules such as phenolics.  
+ - Successfully designed and executed a project for tracking alcoholic fermentation of red and white  wines using spontaneous Raman spectroscopy (SRS) and quantitative 
+   machine learning algorithms.  This methodology greatly simplifies and expedites accurate tracking of fermenting wines by exposing said wines to a non-destructive laser 
+   beam and recording their subsequent Raman spectra.  
+ - Successfully designed and executed a project focussed on quickly and accurately predicting the phenolic content of red wine by recording their UV-visible spectra.  This 
+   work led to the development and deployment of  Shiny apps using the Posit’s Shiny framework in commercial wineries in Washington State and California.  With the apps, 
+   anyone can accurately predict the concentration phenolic compounds in their wine regardless of their level of expertise.
+ - Routinely mentored graduate students, edited graduate theses and manuscripts.
+ - Handled purchasing and reconciliation.
+ - Routinely analyzed and visualized data using the R and Python languages.
+ - Created posters and other media to gain interest in awarded grants and attract certificate students and participate in workshops.
+ - Wrote and edited manuscripts and submitted them for publication for my own work as well as other projects I was directly involved with.
+*Washington State University IAREC*, Prosser, WA — Research Associate in Data Modeling for Regression and Classification 
+ June 2011 - May 2016
+ - Successfully designed and executed a project for predicting mean tannin polymer size in red wines by constructing a model using tannins that were first isolated from raw 
+   cacao beans using flash chromatography and preparative High Performance Liquid Chromatography (HPLC).  By isolating polymers of specific sizes, this work allows for more 
+   accurate prediction of tannin polymer size in red wines which is directly correlated with wine longevity and hence cost. 
+ - Routinely analyzed and visualized data using the R language to fulfill various project requirements.
+ - Wrote and published manuscripts of my work in accordance with journal format requirements.
 
-Accomplishments
+**Accomplishments**
 
-Wrote and published manuscripts (Click here to view publications on Google Scholar)
-Was awarded a one month collaboration (August 2022) with the Environmental Molecular Sciences Laboratory at Pacific Northwest National Laboratory (https://doi.org/10.46936/ltds.proj.2022.60408/60008497, Contract No. DE-AC05-76RL01830) 
-Currently in collaboration with  commercial wineries in California and Washington State who use one of my Shiny apps that is deployed over a cloud server for quantitative prediction and monitoring of phenolic compounds in red wine
-Awarded paper of the year (2013) by the American Society of Enology and Viticulture 
+- [Wrote and published manuscripts [Click] (https://scholar.google.com/citations?user=dXEaLE4AAAAJ&hl=en&oi=ao)
+- Was awarded a one month collaboration (August 2022) with the Environmental Molecular Sciences Laboratory at [Pacific Northwest National Laboratory 
+  (https://doi.org/10.46936/ltds.proj.2022.60408/60008497, Contract No. DE-AC05-76RL01830) 
+- Currently in collaboration with  commercial wineries in California and Washington State who use one of my Shiny apps that is deployed over a cloud server for quantitative 
+  prediction and monitoring of phenolic compounds in red wine
+- Awarded paper of the year (2013) by the American Society of Enology and Viticulture 
 
-Work History
+**Education**
 
-Associate in research at Washington State University Wine Science Center in Richland, WA (05/2016 – present)
-Write R shiny apps for students and participating wineries in California and Washington state
- Involved in project design, grant writing, equipment/chemical purchasing, data collection, data processing, manuscript writing, and publication
-Perform routine data analysis by writing scripts in both R and python 
-Perform routine purchasing and monthly purchase reconciliation 
-
-Associate in research at Washington State University IAREC in Prosser, WA (06/2011 - 05/2016)
-Performed data collection and analysis tasks using UV-visible spectrophotometry, flash chromatography, high performance liquid chromatography (HPLC), and mass spectrometry (MS)
-Analyzed data using the R language
-Wrote and published manuscripts of my work
-
-
-
-
-
-Education
-
-Certified Advanced Data Analyst, Coursera Plus Data Analyst Certificate Program by Google - 2024
-Certified Data Analyst, Coursera Plus Data Analyst Certificate Program by Google - 2023
-Machine Learning A-Z Certificate of Completion, Udemy - 2023
-Certified in PostgreSQL, University of Michigan through Coursera Plus Database Design and Basic SQL in PostgreSQL - 2023
-Master of Science, Washington State University, Pullman, WA - Food science with an emphasis on wine chemistry - 2011
-Bachelor of Arts, Westminster College, New Willmington, PA - Philosophy - 2004
+- *Master of Science*, Washington State University, Pullman, WA - Food science - 2011
+- *Certified Business Analyst with Tableau*, Coursera Plus Certificate through Pathstream
+- *Certified Advanced Data Analyst*, Coursera Plus Data Analyst Certificate Program by Google - 2024
+- *Certified Data Analyst*, Coursera Plus Data Analyst Certificate Program by Google - 2023
+- *Machine Learning A-Z Certification*, Udemy - 2023
+- *Certified in PostgreSQL*, University of Michigan through Coursera Plus Database Design and Basic SQL in PostgreSQL - 2023
+- *Bachelor of Arts*, Westminster College, New Willmington, PA - Philosophy - 2004
 
 
 
