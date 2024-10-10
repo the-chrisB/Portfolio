@@ -24,7 +24,7 @@ I am  an innovative research scientist with more than a decade of experience in 
  August 2024 - Present
  - Boost client success with data cleaning, transformation, analysis, and visualization in both R and Python.  
    With clear communication, insightful guidance, thorough analysis, and comprehensive reporting, I am able to provide clients with the data-driven insights regardless of 
-   their area of expertise. 
+   their area of expertise.
 *Energy Northwest*, Richland, WA — Grant Management, Data Analysis, and Visualization Specialist (temporary/contract position)
  April 2024 - August 2024
  - Facilitated grant proposal awarding by editing and critiquing a  proposal to construct several EV fast charging stations east of the Cascade Mountains in Washington  
@@ -59,8 +59,8 @@ I am  an innovative research scientist with more than a decade of experience in 
 
 **Accomplishments**
 
-- [Wrote and published manuscripts [Click] (https://scholar.google.com/citations?user=dXEaLE4AAAAJ&hl=en&oi=ao)
-- Was awarded a one month collaboration (August 2022) with the Environmental Molecular Sciences Laboratory at [Pacific Northwest National Laboratory 
+- [Wrote and published manuscripts] (https://scholar.google.com/citations?user=dXEaLE4AAAAJ&hl=en&oi=ao)
+- Was awarded a one month collaboration (August 2022) with the Environmental Molecular Sciences Laboratory at [Pacific Northwest National Laboratory] 
   (https://doi.org/10.46936/ltds.proj.2022.60408/60008497, Contract No. DE-AC05-76RL01830) 
 - Currently in collaboration with  commercial wineries in California and Washington State who use one of my Shiny apps that is deployed over a cloud server for quantitative 
   prediction and monitoring of phenolic compounds in red wine
