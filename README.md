@@ -82,7 +82,7 @@ I am  an innovative research scientist with more than a decade of experience in 
 
 **Shiny App Example**
 
-- [ANOVA example].(http://christopherbeaver.shinyapps.io/anova/)
+- [ANOVA example](http://christopherbeaver.shinyapps.io/anova/)
 - [PCA example](https://christopherbeaver.shinyapps.io/pca2/)
 - [Support Vector Regression Example](http://christopherbeaver.shinyapps.io/phenolics/)
 
