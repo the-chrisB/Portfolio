@@ -26,7 +26,7 @@ I am  an innovative research scientist with more than a decade of experience in 
       With clear communication, insightful guidance, thorough analysis, and comprehensive reporting, I am able to provide 
       clients with the data-driven insights regardless of 
       their area of expertise.
-- *Energy Northwest*, Richland, WA — Grant Management, Data Analysis, and Visualization Specialist (temporary/contract position)
+- *Energy Northwest*, Richland, WA — Contract Grant Management, Data Analysis, Visualization and Interpretation Specialist 
   - April 2024 - August 2024
     - Facilitated grant proposal awarding by editing and critiquing a  proposal to construct several EV fast charging 
       stations east of the Cascade Mountains in Washington  
