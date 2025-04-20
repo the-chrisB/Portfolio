@@ -49,7 +49,7 @@ May 2016 - April 2024
 - *Washington State University IAREC*, Prosser, WA — Research Associate
 June 2011 - May 2016
 
-•	Developed models from High Performance Liquid Chromatography (HPLC) and Mass Spectrometry (MS) data
+- Developed models from High Performance Liquid Chromatography (HPLC) and Mass Spectrometry (MS) data
 - Routinely analyzed and visualized data using the R language
 - Isolated compounds of interest in bulk using flash chromatography
 - Wrote and published manuscripts in peer reviewed journals
