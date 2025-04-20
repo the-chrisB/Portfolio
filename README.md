@@ -1,9 +1,7 @@
 # Christopher Beaver
 *Resume, Work History, Publication Links, and App Example Links*  
 Cell: (509) 619-4783  
-Email: christopher.beaver@gmail.com 
-
-
+Email: the-chrisB@outlook.com 
 
 **Summary**
 
@@ -14,63 +12,48 @@ I am  an innovative research scientist with more than a decade of experience in 
 - Data gathering, cleaning, formatting, and filtering in with spreadsheets and Databases
 - Data manipulation and filtering with PostgreSQL and Bigquery
 - Execution of machine learning algorithms in R and Python
-- Building and deploying reactive apps in  R Shiny                                                                                              
+- Building and deploying reactive apps in  R Shiny
+- Technical and manuscript writing
 - Fund aquisition through federal and state grant writing and submission 
 - Able to think critically and communicate with co-workers and collaborators to achieve goals in a timely manner
 
 **Experience**
 
-- *Upwork*, Remote — Freelance Data Scientist
-  - August 2024 - Present
-    - Boost client success with data cleaning, transformation, analysis, and visualization in both R and Python.  
-      With clear communication, insightful guidance, thorough analysis, and comprehensive reporting, I am able to provide 
-      clients with the data-driven insights regardless of 
-      their area of expertise.
-- *Energy Northwest*, Richland, WA — Contract Grant Management, Data Analysis, Visualization and Interpretation Specialist 
-  - April 2024 - August 2024
-    - Facilitated grant proposal awarding by editing and critiquing a  proposal to construct several EV fast charging 
-      stations east of the Cascade Mountains in Washington  
-      State.  This project will greatly assist in achieving the state mandate that all vehicles purchased  or registered in 
-      the state must be EV by 2030.   
-    - Forecasted project cost of the EV charging station grant in an easily communicable and understandable  way regardless 
-      of the professional focus of the audience through 
-      visualizations using the matplotlib and seaborn Python modules. 
-    - Investigated Funding Opportunity Announcements (FOAs) through federal (Office of Energy Efficiency and Renewable 
-      Energy) and state (Washington State Department of 
-      Commerce) entities and summarized technical aspects of the grants in easily communicable terms .
-- *Washington State University*, Richland, WA — Research Associate in Applied Machine Learning
-  - May 2016 - April 2024
-    - Successfully designed and executed a project that utilized unsupervised machine learning to identify the Raman spectra 
-      of certain phenolic compounds using  Surface 
-      Enhanced Raman Spectroscopy (SERS) and supervised machine learning to quantify those compounds once identified.  This  
-      pioneering work clearly demonstrates that SERS 
-      combined with machine learning can be used to model  small organic molecules such as phenolics.  
-    - Successfully designed and executed a project for tracking alcoholic fermentation of red and white  wines using 
-      spontaneous Raman spectroscopy (SRS) and quantitative 
-      machine learning algorithms.  This methodology greatly simplifies and expedites accurate tracking of fermenting wines 
-      by exposing said wines to a non-destructive laser 
-      beam and recording their subsequent Raman spectra.  
-    - Successfully designed and executed a project focussed on quickly and accurately predicting the phenolic content of 
-      red wine by recording their UV-visible spectra.  This 
-      work led to the development and deployment of  Shiny apps using the Posit’s Shiny framework in commercial wineries in 
-      Washington State and California.  With the apps, anyone can accurately predict the concentration phenolic compounds in 
-      their wine regardless of their level of expertise.
-    - Routinely mentored graduate students, edited graduate theses and manuscripts.
-    - Handled purchasing and reconciliation.
-    - Routinely analyzed and visualized data using the R and Python languages.
-    - Created posters and other media to gain interest in awarded grants and attract certificate students and participate 
-      in workshops.
-    - Wrote and edited manuscripts and submitted them for publication for my own work as well as other projects I was 
-      directly involved with.
-- *Washington State University IAREC*, Prosser, WA — Research Associate in Data Modeling for Regression and Classification 
-  - June 2011 - May 2016
-    - Successfully designed and executed a project for predicting mean tannin polymer size in red wines by constructing a 
-      model using tannins that were first isolated from raw cacao beans using flash chromatography and preparative High 
-      Performance Liquid Chromatography (HPLC).  By isolating polymers of specific sizes, this work allows for 
-      more accurate prediction of tannin polymer size in red wines which is directly correlated with wine longevity and 
-      hence cost. 
-    - Routinely analyzed and visualized data using the R language to fulfill various project requirements.
-    - Wrote and published manuscripts of my work in accordance with journal format requirements.
+-*Upwork, other private companies*, Richland, WA/Remote
+April 2024 - Present
+
+•	Conduct exploratory data analysis (EDA)
+•	Clean, transform, and analyze data for statistical analysis using R, python, and excel
+•	Build Machine Learning Models for data classification and Regression
+•	Visualize analytical results using R and Python
+•	Map data and combine analytical results in Tableau
+•	Develop and deploy R Shiny Apps
+•	Filter and manipulate data using PostgreSQL in pgAdmin
+•	Write executive summaries to communicate actionable insights
+
+- *Washington State University*, Richland, WA — Research Associate
+May 2016 - April 2024
+
+•	Wrote procedures, proposals, manuscripts and published in peer reviewed journals
+•	Collaborated with the Environmental and Molecular Sciences Laboratory at Pacific Northwest National Laboratory (EMSL) to develop unsupervised learning models from Surface Enhanced Raman Spectral (SERS) data
+•	Built models using supervised learning models from data obtained using spontaneous Raman spectroscopy and UV-visible spectrophotometry 
+•	Developed predictive models in both R and Python and deployed R Shiny apps
+•	Collaborated with commercial wineries across Washington State, California, and Australia to deploy Shiny apps 
+•	Mentored graduate students, reviewed and edited technical writing, and managed laboratory purchasing and reconciliation through Workday
+•	Routinely analyzed and visualized data using the R and Python languages
+•	Stored and manipulated data using PostgreSQL in pgAdmin
+•	Identified funding opportunities and applied for grants to fund and conduct research
+•	Created posters and other media for presentations
+•	Managed hazardous waste storage and removal according to Washington State and Federal guidelines
+
+- *Washington State University IAREC*, Prosser, WA — Research Associate
+June 2011 - May 2016
+
+•	Developed models from High Performance Liquid Chromatography (HPLC) and Mass Spectrometry (MS) data
+•	Routinely analyzed and visualized data using the R language
+•	Isolated compounds of interest in bulk using flash chromatography 
+•	Wrote and published manuscripts in peer reviewed journals
+•	Managed hazardous waste storage and removal according to Washington State and Federal guidelines
 
 **Accomplishments**
 
@@ -95,11 +78,3 @@ I am  an innovative research scientist with more than a decade of experience in 
 - *Machine Learning A-Z Certification*, Udemy - 2023
 - *Certified in PostgreSQL*, University of Michigan through Coursera Plus Database Design and Basic SQL in PostgreSQL - 2023
 - *Bachelor of Arts*, Westminster College, New Willmington, PA - Philosophy - 2004
-
-
-
-
-
-
-
-
