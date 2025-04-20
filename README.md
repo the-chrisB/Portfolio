@@ -19,7 +19,7 @@ I am a motivated data analyst with more than a decade of experience in data coll
 
 **Experience**
 
-- *Upwork, other private companies*, Richland, WA/Remote
+*Upwork, other private companies*, Richland, WA/Remote
 April 2024 - Present
 
 - Conduct exploratory data analysis (EDA)
@@ -31,7 +31,7 @@ April 2024 - Present
 - Filter and manipulate data using PostgreSQL in pgAdmin
 - Write executive summaries to communicate actionable insights
 
-- *Washington State University*, Richland, WA — Research Associate
+*Washington State University*, Richland, WA — Research Associate
 May 2016 - April 2024
 
 - Wrote procedures, proposals, manuscripts and published in peer reviewed journals
@@ -46,7 +46,7 @@ May 2016 - April 2024
 - Created posters and other media for presentations
 - Managed hazardous waste storage and removal according to Washington State and Federal guidelines
 
-- *Washington State University IAREC*, Prosser, WA — Research Associate
+*Washington State University IAREC*, Prosser, WA — Research Associate
 June 2011 - May 2016
 
 - Developed models from High Performance Liquid Chromatography (HPLC) and Mass Spectrometry (MS) data
