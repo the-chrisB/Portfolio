@@ -22,38 +22,38 @@ I am  an innovative research scientist with more than a decade of experience in 
 - *Upwork, other private companies*, Richland, WA/Remote
 April 2024 - Present
 
-•	Conduct exploratory data analysis (EDA)
-•	Clean, transform, and analyze data for statistical analysis using R, python, and excel
-•	Build Machine Learning Models for data classification and Regression
-•	Visualize analytical results using R and Python
-•	Map data and combine analytical results in Tableau
-•	Develop and deploy R Shiny Apps
-•	Filter and manipulate data using PostgreSQL in pgAdmin
-•	Write executive summaries to communicate actionable insights
+- Conduct exploratory data analysis (EDA)
+- Clean, transform, and analyze data for statistical analysis using R, python, and excel
+- Build Machine Learning Models for data classification and Regression
+- Visualize analytical results using R and Python
+- Map data and combine analytical results in Tableau
+- Develop and deploy R Shiny Apps
+- Filter and manipulate data using PostgreSQL in pgAdmin
+- Write executive summaries to communicate actionable insights
 
 - *Washington State University*, Richland, WA — Research Associate
 May 2016 - April 2024
 
-•	Wrote procedures, proposals, manuscripts and published in peer reviewed journals
-•	Collaborated with the Environmental and Molecular Sciences Laboratory at Pacific Northwest National Laboratory (EMSL) to develop unsupervised learning models from Surface Enhanced Raman Spectral (SERS) data
-•	Built models using supervised learning models from data obtained using spontaneous Raman spectroscopy and UV-visible spectrophotometry 
-•	Developed predictive models in both R and Python and deployed R Shiny apps
-•	Collaborated with commercial wineries across Washington State, California, and Australia to deploy Shiny apps 
-•	Mentored graduate students, reviewed and edited technical writing, and managed laboratory purchasing and reconciliation through Workday
-•	Routinely analyzed and visualized data using the R and Python languages
-•	Stored and manipulated data using PostgreSQL in pgAdmin
-•	Identified funding opportunities and applied for grants to fund and conduct research
-•	Created posters and other media for presentations
-•	Managed hazardous waste storage and removal according to Washington State and Federal guidelines
+- Wrote procedures, proposals, manuscripts and published in peer reviewed journals
+- Collaborated with the Environmental and Molecular Sciences Laboratory at Pacific Northwest National Laboratory (EMSL) to develop unsupervised learning models from Surface Enhanced Raman Spectral (SERS) data
+- Built models using supervised learning models from data obtained using spontaneous Raman spectroscopy and UV-visible spectrophotometry 
+- Developed predictive models in both R and Python and deployed R Shiny apps
+- Collaborated with commercial wineries across Washington State, California, and Australia to deploy Shiny apps 
+- Mentored graduate students, reviewed and edited technical writing, and managed laboratory purchasing and reconciliation through Workday
+- Routinely analyzed and visualized data using the R and Python languages
+- Stored and manipulated data using PostgreSQL in pgAdmin
+- Identified funding opportunities and applied for grants to fund and conduct research
+- Created posters and other media for presentations
+- Managed hazardous waste storage and removal according to Washington State and Federal guidelines
 
 - *Washington State University IAREC*, Prosser, WA — Research Associate
 June 2011 - May 2016
 
 •	Developed models from High Performance Liquid Chromatography (HPLC) and Mass Spectrometry (MS) data
-•	Routinely analyzed and visualized data using the R language
-•	Isolated compounds of interest in bulk using flash chromatography 
-•	Wrote and published manuscripts in peer reviewed journals
-•	Managed hazardous waste storage and removal according to Washington State and Federal guidelines
+- Routinely analyzed and visualized data using the R language
+- Isolated compounds of interest in bulk using flash chromatography
+- Wrote and published manuscripts in peer reviewed journals
+- Managed hazardous waste storage and removal according to Washington State and Federal guidelines
 
 **Accomplishments**
 
