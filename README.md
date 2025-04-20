@@ -19,7 +19,7 @@ I am  an innovative research scientist with more than a decade of experience in 
 
 **Experience**
 
--*Upwork, other private companies*, Richland, WA/Remote
+- *Upwork, other private companies*, Richland, WA/Remote
 April 2024 - Present
 
 •	Conduct exploratory data analysis (EDA)
